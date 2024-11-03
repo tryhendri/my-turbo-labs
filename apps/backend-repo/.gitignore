@@ -1,0 +1,5 @@
+node_modules
+dist
+.env
+*.log
+*-faa5dfd778.json
